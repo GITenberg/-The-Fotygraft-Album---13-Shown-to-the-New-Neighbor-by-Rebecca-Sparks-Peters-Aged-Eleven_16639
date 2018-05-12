@@ -1,0 +1,29 @@
+_repo: -The-Fotygraft-Album---13-Shown-to-the-New-Neighbor-by-Rebecca-Sparks-Peters-Aged-Eleven_16639
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wing, Francis Marion
+    alias: Wing, Frank M. (Francis Marion)
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '6839'
+    url: http://www.gutenberg.org/2009/agents/6839
+description: Illustrated by the author.
+gutenberg_issued: '2005-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Photograph albums -- Humor'
+- !lcc 'PN'
+- !lcsh 'American wit and humor, Pictorial'
+title: "\"The Fotygraft Album\"\r\nShown to the New Neighbor by Rebecca Sparks Peters\
+  \ Aged Eleven"
+url: http://www.gutenberg.org/ebooks/16639
